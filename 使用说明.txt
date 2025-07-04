@@ -1,7 +1,0 @@
-cmd
-
-
-cd F:\vuepress-starter
-
-启动
-npm run docs:dev
