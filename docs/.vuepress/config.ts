@@ -8,5 +8,8 @@ export default defineUserConfig({
     // more...
   }),
   bundler: viteBundler(),
+  styl: `
+    @import './styles/global-styles.css';
+  `
   //public: './public'
 })
